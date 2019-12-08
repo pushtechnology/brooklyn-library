@@ -25,7 +25,7 @@
 #set -x # debug
 
 CLASS=org.apache.brooklyn.qa.longevity.webcluster.WebClusterApp
-VERSION=0.12.0-REAPPT-1.4.6-SNAPSHOT # BROOKLYN_VERSION
+VERSION=0.12.0-REAPPT-1.4.6 # BROOKLYN_VERSION
 
 ROOT=$(cd $(dirname $0) && pwd)
 cd $ROOT
